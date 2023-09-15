@@ -1,0 +1,9 @@
+.App {
+  max-width: 900px;
+  margin: 100px auto;
+}
+/*
+.App * + p {
+  margin-top: 1em;
+}
+*/
